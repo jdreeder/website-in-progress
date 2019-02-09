@@ -1,7 +1,6 @@
 .main {
     border: 20px solid #bdc3c7;
     padding: 20px;
-    max-width: 1000px;
     width: 80%;
     margin: 20px auto;
     font-family: 'Source Sans Pro', sans-serif;
@@ -25,6 +24,10 @@
     margin-bottom: 20px;
 }
 
+.max1k {
+    max-width: 1500px;
+}
+
 /* Inset, by Dan Eden */
 
 hr {
@@ -34,6 +37,10 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+h1 {
+    font-size: 4.0em;
+}
+
 h2 {
     color: #2c3e50;
 }
@@ -41,3 +48,4 @@ h2 {
 h4 {
     color: #123abc;
 }
+
