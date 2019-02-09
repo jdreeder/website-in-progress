@@ -25,8 +25,8 @@
     margin-bottom: 20px;
 }
 
-.max1.5k {
-    max-width: 1500px;
+.cmax {
+    max-width: 1260px;
 }
 
 .container-fluid {
