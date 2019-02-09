@@ -25,6 +25,7 @@
     margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
 .cmax {
     max-width: 1260px;
 }
@@ -32,6 +33,10 @@
 .container-fluid {
     padding-right: 0;
     padding-left: 0;
+=======
+.max1k {
+    max-width: 1500px;
+>>>>>>> 0bf44362d886f4236f50dd37cf0a45a2dc4a95df
 }
 
 /* Inset, by Dan Eden */
